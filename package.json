@@ -1,0 +1,19 @@
+{
+  "name": "pack",
+  "version": "1.0.0",
+  "description": "all the needed dependences",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "MD5": "^1.2.2",
+    "async": "^1.2.1",
+    "express": "^3.5.3",
+    "express3-handlebars": "^0.5.2",
+    "moment": "^2.10.3",
+    "mongoose": "^4.0.5"
+  }
+}
